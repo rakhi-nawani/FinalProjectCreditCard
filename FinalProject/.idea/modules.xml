@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CreditCardService/CreditCardService.iml" filepath="$PROJECT_DIR$/CreditCardService/CreditCardService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EdgeService/EdgeService.iml" filepath="$PROJECT_DIR$/EdgeService/EdgeService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FinalProject.iml" filepath="$PROJECT_DIR$/.idea/FinalProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_server/eureka-service.iml" filepath="$PROJECT_DIR$/eureka_server/eureka-service.iml" />
+    </modules>
+  </component>
+</project>
